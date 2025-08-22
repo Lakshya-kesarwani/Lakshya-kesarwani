@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lakshya K
+# 👋 Hi, I'm Lakshya Kesarwani
 
 ## 🚀 About Me
 - 🎓 3rd-year B.Tech student at **IIT Gandhinagar**
