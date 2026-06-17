@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lakshya Kesarwani
 
 ## 🚀 About Me
-- 🎓 3rd-year B.Tech student at **IIT Gandhinagar**
+- 🎓 4th-year B.Tech student at **IIT Gandhinagar**
 - 💡 Passionate about **Machine Learning, AI, and Programming**
 - 🔧 Skilled in **C++ (DSA, CP)**, **Python (ML/DL, Flask)**, **React.js**, and **Backend Development**
 - 📊 Experienced with **Databases (MySQL, MongoDB)** and **Cloud Deployment (Docker, Kubernetes)**
